@@ -1,5 +1,4 @@
-# eCommerce
-
+# AmadShop
 Welcome here in performant interface for eCommerce app using React. E-Commerce app is much easier with a framework like React and a tiny library such as Redux. 
 
 Available Scripts
